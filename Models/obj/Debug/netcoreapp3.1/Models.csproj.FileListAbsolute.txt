@@ -1,0 +1,21 @@
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\pnajera\source\repos\Desarrollo en contenedores Agosto\Models\obj\Debug\netcoreapp3.1\Models.pdb
+C:\Users\pnajera\source\repos\API_Roles\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+C:\Users\pnajera\source\repos\API_Roles\Models\bin\Debug\netcoreapp3.1\Models.runtimeconfig.json
+C:\Users\pnajera\source\repos\API_Roles\Models\bin\Debug\netcoreapp3.1\Models.runtimeconfig.dev.json
+C:\Users\pnajera\source\repos\API_Roles\Models\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\pnajera\source\repos\API_Roles\Models\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\pnajera\source\repos\API_Roles\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\pnajera\source\repos\API_Roles\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\pnajera\source\repos\API_Roles\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\pnajera\source\repos\API_Roles\Models\obj\Debug\netcoreapp3.1\Models.dll
+C:\Users\pnajera\source\repos\API_Roles\Models\obj\Debug\netcoreapp3.1\Models.pdb
+C:\Users\pnajera\source\repos\API_Roles\Models\obj\Debug\netcoreapp3.1\Models.genruntimeconfig.cache
+C:\Users\pnajera\source\repos\API_Roles\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
